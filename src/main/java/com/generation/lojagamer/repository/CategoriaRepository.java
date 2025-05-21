@@ -10,4 +10,4 @@ public interface CategoriaRepository extends JpaRepository<Categoria, Long> {
 
 	public List<Categoria> findAllByTipoContainingIgnoreCase(String tipo);
 
-}
+ }

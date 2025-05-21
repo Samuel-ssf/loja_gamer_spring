@@ -10,5 +10,4 @@ public class LojagamerApplication {
 		
 		SpringApplication.run(LojagamerApplication.class, args);
 	}
-
-}
+ }
