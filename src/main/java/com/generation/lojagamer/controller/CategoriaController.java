@@ -60,7 +60,7 @@ public class CategoriaController {
 				.map(resposta -> ResponseEntity.ok().body(categoriaRepository.save(categoria)))
 				.orElse(ResponseEntity.notFound().build());
 
-	}
+	}   
 
 	@DeleteMapping("/{id}")
 	public ResponseEntity<?> deleteCategoria(@PathVariable Long id) {
