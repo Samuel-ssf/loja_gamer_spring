@@ -1,4 +1,4 @@
-# Projeto Loja de Games - Backend com Spring Boot
+# Projeto Loja Gamer - Backend com Spring Boot
 
 <br />
 
@@ -23,9 +23,9 @@
 
 ## 1. Descrição
 
-A **Loja de Games** é uma aplicação que permite navegar, cadastrar, atualizar e apagar os jogos cadastrados na loja, além de gerenciar as categorias e os usuários. Este projeto foi desenvolvido com fins educacionais, simulando um sistema real de e-commerce de games, para praticar conceitos de API REST com Java e Spring Boot.
+A **Loja Gamer** é uma aplicação que permite navegar, cadastrar, atualizar e apagar os jogos cadastrados na loja, além de gerenciar as categorias e os usuários. Este projeto foi desenvolvido com fins educacionais, simulando um sistema real de e-commerce de games, para praticar conceitos de API REST com Java e Spring Boot.
 
-Entre os principais recursos de uma loja de games, destacam-se:
+Entre os principais recursos de uma loja gamer, destacam-se:
 
 1. Cadastro, consulta, edição e remoção de jogos
 2. Classificação dos jogos por categorias específicas
@@ -37,7 +37,7 @@ Entre os principais recursos de uma loja de games, destacam-se:
 
 ## 2. Sobre esta API
 
-A API da Loja de Games foi desenvolvida utilizando **Java** e o **framework Spring**, seguindo os princípios da Arquitetura MVC e REST. Ela oferece endpoints para o gerenciamento dos recursos **Usuário**, **Produtos** e **Categoria**, permitindo a interação entre os usuários e o catálogo de jogos disponíveis.
+A API da Loja Gamer foi desenvolvida utilizando **Java** e o **framework Spring**, seguindo os princípios da Arquitetura MVC e REST. Ela oferece endpoints para o gerenciamento dos recursos **Usuário**, **Produtos** e **Categoria**, permitindo a interação entre os usuários e o catálogo de jogos disponíveis.
 
 <br />
 
@@ -143,7 +143,7 @@ Para executar os códigos localmente, você precisará:
 
 ### 7.1. Importando o Projeto
 
-1. Clone o repositório do Projeto [Loja de Games](https://github.com/Samuel-ssf/loja_gamer.git) dentro da pasta do *Workspace* do STS
+1. Clone o repositório do Projeto [Loja Gamer](https://github.com/Samuel-ssf/loja_gamer.git) dentro da pasta do *Workspace* do STS
 
 ```bash
 git clone https://github.com/Samuel-ssf/loja_gamer.git
@@ -160,12 +160,12 @@ git clone https://github.com/Samuel-ssf/loja_gamer.git
 
 ### 7.2. Executando o projeto
 
-1. Na Guia **Boot Dashboard**, localize o **Projeto Loja de Games**
-2. Selecione o **Projeto Loja de Games**
+1. Na Guia **Boot Dashboard**, localize o **Projeto Loja Gamer**
+2. Selecione o **Projeto Gamer**
 3. Clique no botão **Start or Restart**  para iniciar a aplicação
 4. Caso solicitado, autorize o acesso à rede para o projeto
 5. Acompanhe a inicialização no console do STS
-6. Verifique se o banco de dados `db_lojadegames` foi criado corretamente com as tabelas necessárias
+6. Verifique se o banco de dados `db_lojagamer` foi criado corretamente com as tabelas necessárias
 7. Utilize o [Insomnia](https://insomnia.rest/) ou o [Postman](https://www.postman.com/) para testar os endpoints
 
 <br />
@@ -187,7 +187,7 @@ git clone https://github.com/Samuel-ssf/loja_gamer.git
 
 ## 9. Contribuição
 
-Este repositório é parte de um projeto educacional, mas contribuições são bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para :
+Este repositório é parte de um projeto educacional, mas contribuições são bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para:
 
 - Criar uma **issue**
 - Enviar um **pull request**
