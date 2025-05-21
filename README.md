@@ -187,7 +187,7 @@ git clone https://github.com/Samuel-ssf/loja_gamer.git
 
 ## 9. Contribuição
 
-Este repositório é parte de um projeto educacional, mas contribuições são bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para:
+Este repositório é parte de um projeto educacional, mas contribuições são bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para :
 
 - Criar uma **issue**
 - Enviar um **pull request**
